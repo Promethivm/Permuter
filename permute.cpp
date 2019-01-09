@@ -28,4 +28,4 @@ string p = permute(s, rank);
 cout << p << endl;
 }
 }
- v
+ 
